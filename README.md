@@ -2,7 +2,7 @@
 
 A aplicação possuirá duas telas que ficarão abertas simultaneamente, ambas tendo um tamanho do qual possam ficar abertas uma no canto esquerdo e outra no canto direito. E visualmente, poderão ser utilizadas em conjunto com o retaguarda.
 
-# Tela 1
+## Tela 1
 
 A **"Primeira Tela Principal"**, terá por padrão, uma tela simples de outputs **"Informa Produtos"**, que irá exibir as informações de cada produto bipado, essas informações serão texto e poderão ser copiadas. As informações serão:
 
@@ -17,7 +17,7 @@ A **"Primeira Tela Principal"**, terá por padrão, uma tela simples de outputs 
 
 Essa tela será alterada, caso o usuário clique no botão ***'Relatar ocorrência'***, que estará **"Segunda Tela Principal"**. E voltará a exibir a tela **"Informa Produtos"**, quando o usuário clicar no botão *'Salvar Ocorrência'*.
 
-# Tela 2
+## Tela 2
 
 ### Botões Fixos
 
